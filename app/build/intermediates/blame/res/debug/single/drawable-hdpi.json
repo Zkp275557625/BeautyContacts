@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_false.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\check_false.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_true.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\check_true.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_color_green.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\dialog_color_green.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\text_field.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\text_field.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clear_button.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\clear_button.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_bar_edit_normal.9.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_bar_icon_normal.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_bar_edit_pressed.9.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\show_head_toast_bg.9.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\show_head_toast_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_color_red.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\dialog_color_red.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_color_orange.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\dialog_color_orange.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shade_bg.9.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\shade_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_color_purple.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\dialog_color_purple.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_color_blue.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\dialog_color_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\emotionstore_progresscancelbtn.png",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    }
+]

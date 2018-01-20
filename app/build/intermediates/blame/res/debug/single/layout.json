@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contacts.xml",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\layout\\layout_contacts.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\layout\\item_contact.xml"
+    }
+]

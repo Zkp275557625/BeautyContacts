@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solid_divider_ccc.xml",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable\\solid_divider_ccc.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_diviver.xml",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable\\line_diviver.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solid_divider_fff.xml",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable\\solid_divider_fff.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\BeautyContacts\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_checkbox_contact.xml",
+        "source": "E:\\AndroidProjects\\BeautyContacts\\app\\src\\main\\res\\drawable\\selector_checkbox_contact.xml"
+    }
+]
